@@ -1,6 +1,6 @@
 <h1 align="center">Hola a todos 👋, soy Martin Albarracin</h1>
 <h3 align="center">¡Bienvenido/a a mi perfil de GitHub! Soy un estudiante de ingeniería en sistemas apasionado por el desarrollo web y las tecnologías de base de datos. Aquí encontrarás algunos de mis proyectos y contribuciones.</h3>
-- 📫 Como contactarme: **martin.albarracin.10@gmail.com**
+- 📫 Como contactarme: martin.albarracin.10@gmail.com
 
 
 <h3 align="left">Lenguajes y herramientas que utilizo</h3>
